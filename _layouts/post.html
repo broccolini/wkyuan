@@ -1,18 +1,53 @@
 ---
 layout: default
 ---
-<article class="container p2 mx-auto mt2 mb4" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="container p2 mx-auto mt2 mb3" itemscope itemtype="http://schema.org/BlogPosting">
   <h1 class="mb2">{{ site.title }}</h1>
   <h1 class="h2" itemprop="name headline">{{ page.title }}</h1>
   <p class="mb2"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+
   <blockquote class="prose" itemprop="articleBody">
     {{ content }}
   </blockquote>
-  <div class="">
-    <p class="mb2">This quote is from <a href="{{ page.design-details-link }}">epidsode {{ page.design-details-ep }}</a> of the Design Details podcast.</p>
+
+  <div class="pt3">
+    <p class="" itemprop="name headline"><a href="{{ page.twitter }}">{{ page.title }}</a>
+      is a {{ page.role }}
+      {% if page.company %}
+        at {{ page.company }}
+      {% endif %}
+      {% if page.location %}
+        based in {{ page.location }}.
+      {% endif %}
+    </p>
   </div>
-  ___
-  <div class="">
-    <p class="h3" itemprop="name headline"><a href="{{ page.twitter }}">{{ page.title }}</a> is a {{ page.role }} at {{ page.company }} based in {{ page.location }}.</p>
-  </div>
+  <p class="mb2">This quote was taken from <a href="{{ page.design-details-link }}">epidsode {{ page.design-details-ep }}</a> of the Design Details podcast.</p>
+
 </article>
+
+<div class="container p2 mx-auto mb2">
+  <div class="sm-flex border-top">
+    {% if page.previous.url %}
+    <div class="sm-col-6 pt2">
+      <a class="no-underline" href="{{page.previous.url}}">
+        <div class="">
+          <span class="caps"><small>Previous</small></span>
+          <p class="h3 underline">{{page.previous.title}}</p>
+          <p class="mr3">{{ page.previous.content | strip_html | truncatewords:20}}</p>
+        </div>
+      </a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="sm-col-6 pt2">
+      <a class="no-underline" href="{{page.next.url}}">
+        <div class="">
+          <span class="caps"><small>Next</small></span>
+          <p class="h3 underline">{{page.next.title}}</p>
+          <p class="mr3">{{ page.next.content | strip_html | truncatewords:20}}</p>
+        </div>
+      </a>
+    </div>
+    {% endif %}
+  </div>
+</div>
