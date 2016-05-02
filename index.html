@@ -3,23 +3,22 @@ layout: default
 ---
 
 <div class="container p2 mx-auto mt2">
-  <h1>Posts</h1>
-  <ul>
+  <h1 class="mb3">{{ site.title }}</h1>
+  <div class="">
     {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <div class="mb3 prose">
+        <h2 class="">
+          <a class="h2" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.content | strip_html | truncatewords:25}}</p>
-      </li>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="h3">{{ post.content | strip_html | truncatewords:30}}</p>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 
 <!-- Shows links for pages in the site folder such as about -->
-<div>
+<div class="container mx-auto">
   {% for my_page in site.pages %}
     {% if my_page.title %}
     <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
