@@ -20,5 +20,3 @@ I don't want to be a part of a community that encourages people to work instead 
 I haven't quite figured out my opinion on it because I feel like my favorite thing to do, is to do something really fast. To show off that I can do it really fast. It's probably a lot of the reason that I've been successful. I feel like I'm on a high horse to say "you shouldn't hustle", "take care of yourself". I haven't figured out where I stand on that...
 
 I feel like hustle is so glorified. People are killing themselves over it. People don't eat well and exercise, and take time with their friends, and take time with their familes. I don't want to support that and I don't want to encourage it, but it's probably how I got where I am. So I don't know where to stand on it.
-
-This quote was from [epidsode 106](http://spec.fm/podcasts/design-details/27410) of the Design Details podcast.
