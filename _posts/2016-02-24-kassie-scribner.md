@@ -3,9 +3,11 @@ layout: post
 title:  "Kassie Scribner"
 date:   2016-02-24
 categories: design details
-bio: Interactive Art Director
+bio: a designer at Super Top Secret,
+role: Designer
+company: Super Top Secret
+location: Salt Lake, UT
 twitter: https://twitter.com/LadyScrib
-twitter-name: LadyScrib
 design-details-ep: 107
 design-details-link: http://spec.fm/podcasts/design-details/27580
 ---

@@ -3,6 +3,14 @@ layout: post
 title:  "Daniel Burka"
 date:   2016-02-01
 categories: design details
+bio: a Design partner at GV and Co-founder of Milk Inc.,
+role: Design Partner & Co-founder
+company: GV
+company2: Milk Inc.
+location: San Francisco
+twitter: https://twitter.com/dburka
+design-details-ep: 100
+design-details-link: http://spec.fm/podcasts/design-details/25164
 ---
 
 The two things that keep me up at night are, one, that I might get complacent. Working at a venture capital company is a very comfortable job. I get paid a lot of money. I don't work crazy hours anymore. I do worry about losing my edge.
@@ -16,5 +24,3 @@ The other one that I worry about is - how much time have we got, generally. This
 Part of the reason I'm excited to go to work every day is that I do get to work on some problems that really matter. I get to work with one stealthy startup that's doing some really hardcore autonomous vehicle stuff that I think has a chance to really make the world better. I get to work with a bunch of medical companies that are doing things that will genuinely save thousands of peoples lives. More and more as I get older I get interested in those projects that are really epic.
 
 A couple of years ago I got to work on the brand for Calico, which is another one of the alphabet companies. I got to work with Art Levinson, who is the chairman of Apple and used to run Genentech. I sat in a room with him and four of the world's best geneticists and talked to them about a brand that should be around for decades, that will eventually carry a product that should make people live considerably longer. To work on that stuff, this really truly epic, potentially world-changing things, gets more and more exciting. I could spend all of my time doing that, and maybe I should. That definitely keeps me up at night.
-
-This quote was from [epidsode 100](http://spec.fm/podcasts/design-details/25164) of the Design Details podcast.

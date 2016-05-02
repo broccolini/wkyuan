@@ -3,6 +3,14 @@ layout: post
 title:  "Meg Robichaud"
 date:   2016-02-22
 categories: design details
+bio: an independent illustrator & designer
+role: Illustrator & Designer
+company: Spotify
+location: Vancouver
+location2: Ottawa
+twitter: https://twitter.com/Saturday
+design-details-ep: 106
+design-details-link: http://spec.fm/podcasts/design-details/27410
 ---
 
 Hustle. I haven't quite figured out my opinion on this. It's something I want to talk about but I haven't figured out how to articulate it. I'm still only half way there, but I really hate the idea that we encourage everyone to hustle so hard.
