@@ -69,6 +69,9 @@ h1 {
   color: #fff;
 }
 
-.background-gradient {
-  background-image: linear-gradient(-180deg, #111, #333);
+.header-bg {
+  background-image: url(/images/sleepolini.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
 }

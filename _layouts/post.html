@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<article class="container px2 mx-auto mt2 mb4" itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 class="mb2">{{ site.title }}</h1>
+<article class="container p2 mx-auto mt2 mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="mb3">{{ site.title }}</h1>
   <h1 class="h2" itemprop="name headline">{{ page.title }}</h1>
   <p class="mb3"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 

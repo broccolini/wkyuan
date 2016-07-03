@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="container p2 mx-auto mt2">
-  <h1 class="mb3">{{ site.title }}</h1>
-  <div class="">
+  <header class="header-bg">
+    <h1 class="py4 mb2">{{ site.title }}</h1>
+  </header>
+
     {% for post in site.posts %}
       <div class="mb3 prose">
         <h2 class="">
@@ -14,7 +16,7 @@ layout: default
         <p class="h3">{{ post.content | strip_html | truncatewords:30}}</p>
       </div>
     {% endfor %}
-  </div>
+
 </div>
 
 <!-- Shows links for pages in the site folder such as about -->
