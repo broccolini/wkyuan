@@ -1,7 +1,7 @@
-<svg width="3200" height="960" viewBox="0 0 3200 960" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<svg width="1600" height="480" viewBox="0 0 1600 480" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
 <title>Frame</title>
 <desc>Created using Figma 0.90</desc>
-<g id="Canvas" transform="matrix(2 0 0 2 0 0)" figma:type="canvas">
+<g id="Canvas" figma:type="canvas">
 <mask id="mask0_outline" mask-type="alpha">
 <path d="M 0 0L 1600 0L 1600 480L 0 480L 0 0Z" fill="#FFFFFF"/>
 </mask>
@@ -347,7 +347,6 @@
 <use xlink:href="#path30_fill" transform="translate(1087.65 328.402)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
 </g>
 </g>
-<g id="Monstors" style="mix-blend-mode:normal;" figma:type="group">
 <g id="Group" style="mix-blend-mode:normal;" figma:type="group">
 <g id="IMG_7179" style="mix-blend-mode:normal;" figma:type="vector">
 <use xlink:href="#path31_fill" transform="matrix(-1 0 0 1 489.714 280.486)" fill="#222222" style="mix-blend-mode:normal;"/>
@@ -492,207 +491,207 @@
 </g>
 <g id="Group" style="mix-blend-mode:normal;" figma:type="group">
 <g id="Vector 49" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path65_fill" transform="translate(409.405 260.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path65_fill" transform="translate(409.371 260.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask20_outline_ins">
-<use xlink:href="#path65_fill" fill="white" transform="translate(409.405 260.571)"/>
+<use xlink:href="#path65_fill" fill="white" transform="translate(409.371 260.571)"/>
 </mask>
 <g mask="url(#mask20_outline_ins)">
-<use xlink:href="#path66_stroke_2x" transform="translate(409.405 260.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path66_stroke_2x" transform="translate(409.371 260.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Ellipse 20" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path67_fill" transform="matrix(0.961939 0.273264 -0.273265 0.961939 430.15 266.756)" fill="#FBE0BD" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path67_fill" transform="matrix(0.961939 0.273264 -0.273265 0.961939 430.116 266.756)" fill="#FBE0BD" style="mix-blend-mode:normal;"/>
 </g>
-<g id="Vector 50" style="mix-blend-mode:normal;" filter="url(#filter0_d)" figma:type="vector">
-<use xlink:href="#path68_fill" transform="translate(428.41 253)" fill="#222222" style="mix-blend-mode:normal;"/>
+<g id="Vector 50" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path68_fill" transform="translate(428.376 253)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask21_outline_ins">
-<use xlink:href="#path68_fill" fill="white" transform="translate(428.41 253)"/>
+<use xlink:href="#path68_fill" fill="white" transform="translate(428.376 253)"/>
 </mask>
 <g mask="url(#mask21_outline_ins)">
-<use xlink:href="#path69_stroke_2x" transform="translate(428.41 253)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path69_stroke_2x" transform="translate(428.376 253)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 51" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path70_fill" transform="translate(428.91 257.232)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path70_fill" transform="translate(428.876 257.232)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask22_outline_ins">
-<use xlink:href="#path70_fill" fill="white" transform="translate(428.91 257.232)"/>
+<use xlink:href="#path70_fill" fill="white" transform="translate(428.876 257.232)"/>
 </mask>
 <g mask="url(#mask22_outline_ins)">
-<use xlink:href="#path71_stroke_2x" transform="translate(428.91 257.232)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path71_stroke_2x" transform="translate(428.876 257.232)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 52" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path72_fill" transform="translate(422.41 259.223)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path72_fill" transform="translate(422.376 259.223)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask23_outline_ins">
-<use xlink:href="#path72_fill" fill="white" transform="translate(422.41 259.223)"/>
+<use xlink:href="#path72_fill" fill="white" transform="translate(422.376 259.223)"/>
 </mask>
 <g mask="url(#mask23_outline_ins)">
-<use xlink:href="#path73_stroke_2x" transform="translate(422.41 259.223)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path73_stroke_2x" transform="translate(422.376 259.223)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 53" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path74_fill" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.52 263.423)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path74_fill" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.486 263.423)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask24_outline_ins">
-<use xlink:href="#path74_fill" fill="white" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.52 263.423)"/>
+<use xlink:href="#path74_fill" fill="white" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.486 263.423)"/>
 </mask>
 <g mask="url(#mask24_outline_ins)">
-<use xlink:href="#path75_stroke_2x" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.52 263.423)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path75_stroke_2x" transform="matrix(0.994969 0.100188 -0.100188 0.994969 408.486 263.423)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 54" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path76_fill" transform="translate(405.988 271.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path76_fill" transform="translate(405.954 271.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask25_outline_ins">
-<use xlink:href="#path76_fill" fill="white" transform="translate(405.988 271.571)"/>
+<use xlink:href="#path76_fill" fill="white" transform="translate(405.954 271.571)"/>
 </mask>
 <g mask="url(#mask25_outline_ins)">
-<use xlink:href="#path77_stroke_2x" transform="translate(405.988 271.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path77_stroke_2x" transform="translate(405.954 271.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 55" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path78_fill" transform="translate(404.034 280.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path78_fill" transform="translate(404 280.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask26_outline_ins">
-<use xlink:href="#path78_fill" fill="white" transform="translate(404.034 280.571)"/>
+<use xlink:href="#path78_fill" fill="white" transform="translate(404 280.571)"/>
 </mask>
 <g mask="url(#mask26_outline_ins)">
-<use xlink:href="#path79_stroke_2x" transform="translate(404.034 280.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path79_stroke_2x" transform="translate(404 280.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 56" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path80_fill" transform="translate(409.41 291.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path80_fill" transform="translate(409.376 291.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask27_outline_ins">
-<use xlink:href="#path80_fill" fill="white" transform="translate(409.41 291.071)"/>
+<use xlink:href="#path80_fill" fill="white" transform="translate(409.376 291.071)"/>
 </mask>
 <g mask="url(#mask27_outline_ins)">
-<use xlink:href="#path81_stroke_2x" transform="translate(409.41 291.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path81_stroke_2x" transform="translate(409.376 291.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 56" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path82_fill" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.41 294.813)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path82_fill" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.376 294.813)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask28_outline_ins">
-<use xlink:href="#path82_fill" fill="white" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.41 294.813)"/>
+<use xlink:href="#path82_fill" fill="white" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.376 294.813)"/>
 </mask>
 <g mask="url(#mask28_outline_ins)">
-<use xlink:href="#path83_stroke_2x" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.41 294.813)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path83_stroke_2x" transform="matrix(0.966038 -0.258401 0.258401 0.966038 410.376 294.813)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 56" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path84_fill" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.389 293.185)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path84_fill" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.355 293.185)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask29_outline_ins">
-<use xlink:href="#path84_fill" fill="white" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.389 293.185)"/>
+<use xlink:href="#path84_fill" fill="white" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.355 293.185)"/>
 </mask>
 <g mask="url(#mask29_outline_ins)">
-<use xlink:href="#path85_stroke_2x" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.389 293.185)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path85_stroke_2x" transform="matrix(-0.995519 -0.0945606 -0.0945614 0.995519 437.355 293.185)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 56" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path86_fill" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.356 296.749)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path86_fill" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.323 296.749)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask30_outline_ins">
-<use xlink:href="#path86_fill" fill="white" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.356 296.749)"/>
+<use xlink:href="#path86_fill" fill="white" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.323 296.749)"/>
 </mask>
 <g mask="url(#mask30_outline_ins)">
-<use xlink:href="#path87_stroke_2x" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.356 296.749)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path87_stroke_2x" transform="matrix(-0.951097 -0.308891 -0.308892 0.951097 435.323 296.749)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Ellipse 21" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path88_fill" transform="matrix(0.979571 0.201097 -0.201099 0.979571 434.666 266.713)" fill="#FBE0BD" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path88_fill" transform="matrix(0.979571 0.201097 -0.201099 0.979571 434.632 266.713)" fill="#FBE0BD" style="mix-blend-mode:normal;"/>
 </g>
 <g id="Vector 57" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path89_fill" transform="translate(431.41 274.839)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path89_fill" transform="translate(431.376 274.839)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask31_outline_ins">
-<use xlink:href="#path89_fill" fill="white" transform="translate(431.41 274.839)"/>
+<use xlink:href="#path89_fill" fill="white" transform="translate(431.376 274.839)"/>
 </mask>
 <g mask="url(#mask31_outline_ins)">
-<use xlink:href="#path90_stroke_2x" transform="translate(431.41 274.839)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path90_stroke_2x" transform="translate(431.376 274.839)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 57" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path91_fill" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.274 288.136)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path91_fill" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.24 288.136)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask32_outline_ins">
-<use xlink:href="#path91_fill" fill="white" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.274 288.136)"/>
+<use xlink:href="#path91_fill" fill="white" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.24 288.136)"/>
 </mask>
 <g mask="url(#mask32_outline_ins)">
-<use xlink:href="#path92_stroke_2x" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.274 288.136)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path92_stroke_2x" transform="matrix(-0.522273 0.852778 0.852779 0.522273 451.24 288.136)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 58" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path93_fill" transform="translate(433.41 283.412)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path93_fill" transform="translate(433.376 283.412)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask33_outline_ins">
-<use xlink:href="#path93_fill" fill="white" transform="translate(433.41 283.412)"/>
+<use xlink:href="#path93_fill" fill="white" transform="translate(433.376 283.412)"/>
 </mask>
 <g mask="url(#mask33_outline_ins)">
-<use xlink:href="#path94_stroke_2x" transform="translate(433.41 283.412)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path94_stroke_2x" transform="translate(433.376 283.412)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 59" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path95_fill" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.851 279.749)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path95_fill" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.817 279.749)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask34_outline_ins">
-<use xlink:href="#path95_fill" fill="white" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.851 279.749)"/>
+<use xlink:href="#path95_fill" fill="white" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.817 279.749)"/>
 </mask>
 <g mask="url(#mask34_outline_ins)">
-<use xlink:href="#path96_stroke_2x" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.851 279.749)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path96_stroke_2x" transform="matrix(0.990056 0.140674 -0.140674 0.990056 454.817 279.749)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 60" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path97_fill" transform="translate(453.41 286.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path97_fill" transform="translate(453.376 286.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask35_outline_ins">
-<use xlink:href="#path97_fill" fill="white" transform="translate(453.41 286.071)"/>
+<use xlink:href="#path97_fill" fill="white" transform="translate(453.376 286.071)"/>
 </mask>
 <g mask="url(#mask35_outline_ins)">
-<use xlink:href="#path98_stroke_2x" transform="translate(453.41 286.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path98_stroke_2x" transform="translate(453.376 286.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 61" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path99_fill" transform="translate(418.91 302.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path99_fill" transform="translate(418.876 302.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask36_outline_ins">
-<use xlink:href="#path99_fill" fill="white" transform="translate(418.91 302.571)"/>
+<use xlink:href="#path99_fill" fill="white" transform="translate(418.876 302.571)"/>
 </mask>
 <g mask="url(#mask36_outline_ins)">
-<use xlink:href="#path100_stroke_2x" transform="translate(418.91 302.571)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path100_stroke_2x" transform="translate(418.876 302.571)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 62" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path101_fill" transform="translate(424.41 303.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path101_fill" transform="translate(424.376 303.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask37_outline_ins">
-<use xlink:href="#path101_fill" fill="white" transform="translate(424.41 303.071)"/>
+<use xlink:href="#path101_fill" fill="white" transform="translate(424.376 303.071)"/>
 </mask>
 <g mask="url(#mask37_outline_ins)">
-<use xlink:href="#path102_stroke_2x" transform="translate(424.41 303.071)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path102_stroke_2x" transform="translate(424.376 303.071)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 63" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path103_fill" transform="translate(440.91 265.961)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path103_fill" transform="translate(440.876 265.961)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask38_outline_ins">
-<use xlink:href="#path103_fill" fill="white" transform="translate(440.91 265.961)"/>
+<use xlink:href="#path103_fill" fill="white" transform="translate(440.876 265.961)"/>
 </mask>
 <g mask="url(#mask38_outline_ins)">
-<use xlink:href="#path104_stroke_2x" transform="translate(440.91 265.961)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path104_stroke_2x" transform="translate(440.876 265.961)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 63" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path105_fill" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.197 271.555)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path105_fill" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.163 271.555)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask39_outline_ins">
-<use xlink:href="#path105_fill" fill="white" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.197 271.555)"/>
+<use xlink:href="#path105_fill" fill="white" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.163 271.555)"/>
 </mask>
 <g mask="url(#mask39_outline_ins)">
-<use xlink:href="#path106_stroke_2x" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.197 271.555)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path106_stroke_2x" transform="matrix(-0.119174 0.992873 -0.992873 -0.119174 443.163 271.555)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 63" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path107_fill" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.271 266.647)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path107_fill" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.237 266.647)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask40_outline_ins">
-<use xlink:href="#path107_fill" fill="white" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.271 266.647)"/>
+<use xlink:href="#path107_fill" fill="white" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.237 266.647)"/>
 </mask>
 <g mask="url(#mask40_outline_ins)">
-<use xlink:href="#path108_stroke_2x" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.271 266.647)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path108_stroke_2x" transform="matrix(0.990938 0.134323 -0.134325 0.990937 441.237 266.647)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 <g id="Vector 63" style="mix-blend-mode:normal;" figma:type="vector">
-<use xlink:href="#path109_fill" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.761 267.044)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path109_fill" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.727 267.044)" fill="#222222" style="mix-blend-mode:normal;"/>
 <mask id="mask41_outline_ins">
-<use xlink:href="#path109_fill" fill="white" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.761 267.044)"/>
+<use xlink:href="#path109_fill" fill="white" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.727 267.044)"/>
 </mask>
 <g mask="url(#mask41_outline_ins)">
-<use xlink:href="#path110_stroke_2x" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.761 267.044)" fill="#222222" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path110_stroke_2x" transform="matrix(0.779237 0.626729 -0.626728 0.779238 441.727 267.044)" fill="#222222" style="mix-blend-mode:normal;"/>
 </g>
 </g>
 </g>
@@ -992,7 +991,6 @@
 </g>
 </g>
 </g>
-</g>
 <g id="Vector 73" style="mix-blend-mode:normal;" figma:type="vector">
 <use xlink:href="#path177_fill" transform="translate(325.5 308)" fill="#111111" fill-opacity="0.3" style="mix-blend-mode:normal;"/>
 </g>
@@ -1043,16 +1041,6 @@
 </g>
 </g>
 <defs>
-<filter id="filter0_d" filterUnits="userSpaceOnUse" x="424" y="253" width="19" height="19" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<desc>type="dropShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
-<feOffset dx="0" dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
 <linearGradient id="paint251_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(38.5 5.03358e-15 6.69339e-16 20.3649 -8.5 57.8176)">
 <stop offset="0" stop-color="#CCCCCC" stop-opacity="0.8"/>
 <stop offset="1" stop-color="#FBE0BD" stop-opacity="0"/>
@@ -1237,8 +1225,8 @@
 <path id="path172_stroke_2x" d="M 0 6.7802L -0.31124 5.82987C -0.738396 5.96977 -1.01973 6.37747 -0.998929 6.82647C -0.978131 7.27547 -0.660316 7.65543 -0.222057 7.75524L 0 6.7802ZM 4.83165 6.18533L 5.27887 7.07975L 5.27887 7.07975L 4.83165 6.18533ZM 7.65439 0.0279411L 7.87607 1.00306L 7.65439 0.0279411ZM -0.222057 7.75524C 1.23937 8.07967 2.43194 8.04527 3.27921 7.8637C 4.17571 7.65612 4.82887 7.30448 5.27887 7.07975L 4.38444 5.2909C 3.89511 5.53584 3.46755 5.78569 2.8506 5.91017C 2.18443 6.06065 1.43084 6.08886 0.222057 5.80517L -0.222057 7.75524ZM 5.27887 7.07975C 6.03404 6.70217 6.72953 6.01683 7.29746 5.30338C 7.86551 4.58667 8.40141 3.70818 8.76573 2.93044C 9.12041 2.16972 9.40757 1.32022 9.39537 0.617187C 9.38933 0.269279 9.30538 -0.252087 8.88146 -0.632138C 8.42407 -1.0422 7.85457 -1.04308 7.43272 -0.947179L 7.87607 1.00306C 7.92024 0.989295 7.83907 0.991599 7.82637 0.995263C 7.78294 0.978363 7.60144 0.892141 7.5464 0.857026C 7.50647 0.807295 7.41351 0.664048 7.40148 0.648126C 7.40618 0.649271 7.39686 0.599848 7.39567 0.651902C 7.39968 0.882993 7.27731 1.38986 6.95307 2.0853C 6.63846 2.76372 6.22603 3.44119 5.73271 4.05777C 5.23928 4.67762 4.76037 5.10294 4.38444 5.2909L 5.27887 7.07975ZM 7.43272 -0.947179C 4.74593 -0.336389 3.65071 1.33612 2.77681 2.77959C 1.90555 4.21871 1.29561 5.30362 -0.31124 5.82987L 0.31124 7.73054C 2.7214 6.94119 3.67023 5.16566 4.4877 3.81538C 5.30253 2.46947 6.026 1.42364 7.87607 1.00306L 7.43272 -0.947179Z"/>
 <path id="path173_fill" d="M 0.469659 0C 0.313106 0.782769 0 1.87864 0 3.28763L 1.87864 3.28763L 2.3483 0L 0.469659 0Z"/>
 <path id="path174_stroke_2x" d="M 0.469659 0L 0.469659 -1C -0.00702188 -1 -0.417437 -0.66354 -0.510921 -0.196115L 0.469659 0ZM 0 3.28763L -1 3.28763C -1 3.83991 -0.552285 4.28763 2.22045e-16 4.28763L 0 3.28763ZM 1.87864 3.28763L 1.87864 4.28763C 2.37629 4.28763 2.79821 3.9217 2.86859 3.42905L 1.87864 3.28763ZM 2.3483 0L 3.33825 0.141421C 3.37924 -0.145557 3.29369 -0.436202 3.10375 -0.655202C 2.91381 -0.874201 2.63819 -1 2.3483 -1L 2.3483 0ZM -0.510921 -0.196115C -0.658741 0.547158 -0.990334 1.73994 -1 3.28763L 1 3.28763C 0.990334 2.01735 1.28495 1.01838 1.45024 0.196115L -0.510921 -0.196115ZM 0 4.28763L 1.87864 4.28763L 1.87864 2.28763L 0 2.28763L 0 4.28763ZM 2.86859 3.42905L 3.33825 0.141421L 1.35835 -0.141421L 0.888688 3.14621L 2.86859 3.42905ZM 2.3483 -1L 0.469659 -1L 0.469659 1L 2.3483 1L 2.3483 -1Z"/>
-<path id="path175_fill" d="M 1.90445 0C 1.90445 0 1.90445 1.40899 1.90445 1.87865C 1.90445 2.34831 2.37411 3.28763 2.37411 4.22696L 0.0258143 4.22696C -0.130739 3.28763 0.495474 1.87865 0.0258143 1.56429e-16L 1.90445 0Z"/>
-<path id="path176_stroke_2x" d="M 1.90445 0L 2.90445 0C 2.90445 -0.265216 2.7991 -0.51957 2.61156 -0.707107C 2.42403 -0.894643 2.16967 -1 1.90445 -1L 1.90445 0ZM 2.37411 4.22696L 2.37411 5.22696C 2.9264 5.22696 3.37411 4.77924 3.37411 4.22696L 2.37411 4.22696ZM 0.0258143 4.22696L -0.96058 4.39136C -0.880215 4.87355 -0.463025 5.22696 0.0258143 5.22696L 0.0258143 4.22696ZM 0.0258143 1.56429e-16L 0.0258143 -1C -0.282121 -1 -0.572884 -0.858129 -0.762391 -0.615413C -0.951898 -0.372697 -1.01901 -0.0562064 -0.944328 0.242535L 0.0258143 1.56429e-16ZM 1.90445 0C 0.904455 0 0.904455 5.37486e-06 0.904455 1.61071e-05C 0.904455 2.68393e-05 0.904455 4.29289e-05 0.904455 6.43583e-05C 0.904455 0.000107217 0.904455 0.000171436 0.904455 0.000256873C 0.904455 0.000427749 0.904455 0.000683503 0.904455 0.00102301C 0.904455 0.00170204 0.904455 0.00271609 0.904455 0.00405623C 0.904455 0.00673649 0.904455 0.010721 0.904455 0.0159382C 0.904455 0.0263726 0.904455 0.0417376 0.904455 0.0614597C 0.904455 0.100904 0.904455 0.157777 0.904455 0.227493C 0.904455 0.366924 0.904455 0.557724 0.904455 0.763201C 0.904455 1.17416 0.904455 1.64382 0.904455 1.87865L 2.90445 1.87865C 2.90445 1.64382 2.90445 1.17416 2.90445 0.763201C 2.90445 0.557724 2.90445 0.366924 2.90445 0.227493C 2.90445 0.157777 2.90445 0.100904 2.90445 0.0614597C 2.90445 0.0417376 2.90445 0.0263726 2.90445 0.0159382C 2.90445 0.010721 2.90445 0.00673649 2.90445 0.00405623C 2.90445 0.00271609 2.90445 0.00170204 2.90445 0.00102301C 2.90445 0.000683503 2.90445 0.000427749 2.90445 0.000256873C 2.90445 0.000171436 2.90445 0.000107217 2.90445 6.43583e-05C 2.90445 4.29289e-05 2.90445 2.68393e-05 2.90445 1.61071e-05C 2.90445 5.37486e-06 2.90445 0 1.90445 0ZM 0.904455 1.87865C 0.909322 2.0946 0.959303 2.3672 1.01022 2.56404C 1.05995 2.75372 1.12188 2.95562 1.17776 3.1514C 1.29073 3.5463 1.38161 3.87948 1.37411 4.22696L 3.37411 4.22696C 3.36662 3.63511 3.22267 3.02897 3.10081 2.60196C 3.03928 2.38679 2.98379 2.20709 2.94546 2.0592C 2.90831 1.91847 2.89959 1.89753 2.90445 1.87865L 0.904455 1.87865ZM 2.37411 3.22696L 0.0258143 3.22696L 0.0258143 5.22696L 2.37411 5.22696L 2.37411 3.22696ZM 1.01221 4.06256C 0.984625 3.92811 0.994126 3.79623 1.02085 3.53391C 1.04736 3.26556 1.09559 2.94812 1.13711 2.57616C 1.21838 1.84027 1.25578 0.840787 0.995957 -0.242535L -0.944328 0.242535C -0.734489 1.03786 -0.775366 1.6822 -0.850654 2.3553C -0.887404 2.68783 -0.937027 3.01617 -0.969223 3.3349C -1.0012 3.65965 -1.01127 4.05615 -0.96058 4.39136L 1.01221 4.06256ZM 0.0258143 1L 1.90445 1L 1.90445 -1L 0.0258143 -1L 0.0258143 1Z"/>
+<path id="path175_fill" d="M 1.90445 0C 1.90445 0 1.90445 1.40899 1.90445 1.87865C 1.90445 2.34831 2.37411 3.42728 2.37411 4.36661L 0.0258143 4.36661C -0.130739 3.42728 0.495474 1.87865 0.0258143 1.56429e-16L 1.90445 0Z"/>
+<path id="path176_stroke_2x" d="M 1.90445 0L 2.90445 0C 2.90445 -0.265216 2.7991 -0.51957 2.61156 -0.707107C 2.42403 -0.894643 2.16967 -1 1.90445 -1L 1.90445 0ZM 2.37411 4.36661L 2.37411 5.36661C 2.9264 5.36661 3.37411 4.91889 3.37411 4.36661L 2.37411 4.36661ZM 0.0258143 4.36661L -0.96058 4.53101C -0.880215 5.01319 -0.463025 5.36661 0.0258143 5.36661L 0.0258143 4.36661ZM 0.0258143 1.56429e-16L 0.0258143 -1C -0.282121 -1 -0.572884 -0.858129 -0.762391 -0.615413C -0.951898 -0.372697 -1.01901 -0.0562064 -0.944328 0.242535L 0.0258143 1.56429e-16ZM 1.90445 0C 0.904455 0 0.904455 5.37486e-06 0.904455 1.61071e-05C 0.904455 2.68393e-05 0.904455 4.29289e-05 0.904455 6.43583e-05C 0.904455 0.000107217 0.904455 0.000171436 0.904455 0.000256873C 0.904455 0.000427749 0.904455 0.000683503 0.904455 0.00102301C 0.904455 0.00170204 0.904455 0.00271609 0.904455 0.00405623C 0.904455 0.00673649 0.904455 0.010721 0.904455 0.0159382C 0.904455 0.0263726 0.904455 0.0417376 0.904455 0.0614597C 0.904455 0.100904 0.904455 0.157777 0.904455 0.227493C 0.904455 0.366924 0.904455 0.557724 0.904455 0.763201C 0.904455 1.17416 0.904455 1.64382 0.904455 1.87865L 2.90445 1.87865C 2.90445 1.64382 2.90445 1.17416 2.90445 0.763201C 2.90445 0.557724 2.90445 0.366924 2.90445 0.227493C 2.90445 0.157777 2.90445 0.100904 2.90445 0.0614597C 2.90445 0.0417376 2.90445 0.0263726 2.90445 0.0159382C 2.90445 0.010721 2.90445 0.00673649 2.90445 0.00405623C 2.90445 0.00271609 2.90445 0.00170204 2.90445 0.00102301C 2.90445 0.000683503 2.90445 0.000427749 2.90445 0.000256873C 2.90445 0.000171436 2.90445 0.000107217 2.90445 6.43583e-05C 2.90445 4.29289e-05 2.90445 2.68393e-05 2.90445 1.61071e-05C 2.90445 5.37486e-06 2.90445 0 1.90445 0ZM 0.904455 1.87865C 0.908803 2.08922 0.956207 2.36203 1.00591 2.56873C 1.0545 2.76867 1.11578 2.98657 1.17225 3.20116C 1.28609 3.63305 1.38064 4.01101 1.37411 4.36661L 3.37411 4.36661C 3.36759 3.78288 3.22731 3.15169 3.10632 2.69185C 3.04537 2.46057 2.98924 2.26196 2.94976 2.09814C 2.91141 1.9411 2.90011 1.90291 2.90445 1.87865L 0.904455 1.87865ZM 2.37411 3.36661L 0.0258143 3.36661L 0.0258143 5.36661L 2.37411 5.36661L 2.37411 3.36661ZM 1.01221 4.20221C 0.984586 4.06717 0.994307 3.92445 1.02126 3.64753C 1.04808 3.36442 1.0964 3.02905 1.13767 2.64083C 1.21865 1.87163 1.25568 0.839824 0.995957 -0.242535L -0.944328 0.242535C -0.734393 1.03882 -0.775641 1.72066 -0.851214 2.43027C -0.888216 2.78145 -0.937748 3.12678 -0.969635 3.45694C -1.00139 3.79327 -1.01123 4.19639 -0.96058 4.53101L 1.01221 4.20221ZM 0.0258143 1L 1.90445 1L 1.90445 -1L 0.0258143 -1L 0.0258143 1Z"/>
 <path id="path177_fill" d="M 0 1L 2.50826 3.58889L 6.51928 2.95556L 9.02617 5.65128L 12.0344 3.96239L 16.0455 6.77863L 22.062 6.83419L 26.0702 4.96239L 30.5854 5.65128L 34.1033 7.6L 39.6185 10.4556L 50.1529 13.4111L 58.1749 13.0444L 64.6928 10.2333L 71.7066 8.33333L 77.7231 10.4556L 83.23 9.76667L 89.2466 14.7333L 99.2741 16L 108.8 14.7333L 112.811 12.4556L 122.324 11.3556L 132.368 11.6L 141.891 9.92222L 149.412 10.6L 161.45 13.9222L 171.472 13.5231L 178.492 12.2564L 181.5 10.7786C 142.5 4.5 123 2 100.786 0L 0 1Z"/>
 <path id="path178_fill" d="M 0 68L 73 68C 63.5 61.5474 42.5 19.854 36.5 0C 33.1324 10.0291 27.328 25.3382 20.7744 38.9528C 14.0299 52.964 6.4919 65.1805 0 68Z"/>
 <path id="path179_fill" d="M 36.5 0C 33.1324 10.0291 27.328 25.3382 20.7744 38.9528C 14.0299 52.964 6.4919 65.1805 0 68L 7 68C 19.8 62.4409 29.6667 20.3504 36.5 0Z"/>
