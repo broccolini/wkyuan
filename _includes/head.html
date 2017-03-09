@@ -12,4 +12,64 @@
   <!-- <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'> -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <style>
+    /* Reset some basic elements */
+    body, h1, h2, h3, h4, h5, h6,
+    p, blockquote, pre, hr,
+    dl, dd, ol, ul, figure {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Base styles */
+    body {
+        font-family: Athelas, Georgia, serif;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 1.5;
+        color: #181818;
+        background-color: #fff;
+    }
+
+    a { color: inherit; }
+    a:hover { color: #0f7688; }
+
+    /* Typography */
+    .font-smoothing {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .quote {
+      font-size: 56px;
+      color: #ccc;
+    }
+
+    .quote-start {
+      width: 20px;
+      height: 30px;
+      margin-top: -20px;
+      margin-left: -26px;
+    }
+
+    /* Themes */
+    .bg-black { background-color: #111 }
+    .text-white { color: #fff; }
+
+    .bg-gradient {
+      background-color: #181818;
+      background: radial-gradient(rgba(24,24,24, 0.3) 0%, rgba(22, 74, 83, 0.4) 100% );
+      background: linear-gradient(180deg, #181818 10%, #132f36 30%, #0A3240 65%, #181818 95%);
+      /*background: linear-gradient(180deg, #111 10%, #113B42 50%, #204052 65%, #181818 100%)*/
+    }
+
+    /* Content */
+    .prose p {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .container { max-width: 56rem; }
+  </style>
 </head>
