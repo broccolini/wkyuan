@@ -1,33 +1,3 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
-}
-
-
-
-/**
- * Basic styling
- */
-body {
-    font-family: Athelas, Georgia, serif;
-    font-size: 16px;
-    font-weight: normal;
-    line-height: 1.5;
-    color: #111;
-    background-color: #fff;
-}
-
-a {
-  color: inherit;
-}
-
-
-
 h1 {
   font-size: 48px;
   font-weight: normal;
@@ -38,51 +8,6 @@ h1 {
   }
 
 }
-
-// Typography
-
-.font-smoothing {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.no-underline {
-  text-decoration: none;
-}
-
-.quote {
-  font-size: 56px;
-  color: #ccc;
-}
-
-.quote-start {
-  width: 20px;
-  height: 30px;
-  margin-top: -20px;
-  margin-left: -26px;
-}
-
-.quote-end {
-
-}
-
-
-// Themes
-
-.bg-black {
-  background-color: #111;
-}
-
-.text-white {
-  color: #fff;
-}
-
-// .header-bg {
-//   background-image: url(/images/sleepolini.png);
-//   background-position: right;
-//   background-repeat: no-repeat;
-//   background-size: contain;
-// }
 
 .header-bg {
   background-image: url(/images/nightsky.svg);
@@ -109,13 +34,4 @@ h1 {
     min-height: 600px;
   }
 
-
-}
-
-.bg-gradient {
-  // background: linear-gradient(178deg, #111 0, #333 22%, #8AB7B4 100%)
-  // Blue
-  background: linear-gradient(178deg, #111 0, #333 22%, #50749E 100%)
-  // Yellow
-  // background: linear-gradient(178deg, #111 0, #333 22%, #B2AB89 100%)
 }
