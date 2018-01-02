@@ -20,12 +20,3 @@ layout: home
     </div>
   {% endfor %}
 </div>
-
-<!-- Shows links for pages in the site folder such as about -->
-<div class="container mx-auto">
-  {% for my_page in site.pages %}
-    {% if my_page.title %}
-    <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-    {% endif %}
-  {% endfor %}
-</div>
