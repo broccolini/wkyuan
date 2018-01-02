@@ -8,7 +8,7 @@ In November 2015, during a live recording of [Design Details with Randy Hunt](ht
 
 There's a lot going on in the world, and there's a lot of things people might have on their minds. The answers shared on this site are in the context of working in design and tech, though you might notice the type of topics that come up change over time, sometimes influenced by industry or world events.
 
-## Transcription eidting:
+## Transcription editing:
 Each answer is edited to remove conversational words such as "ummm" and "like", and to remove conversation between the hosts, Bryn and Brian, so that you are left with just the answer to the question. I found this format worked better in the written form.
 
 ## Reporting issues:
